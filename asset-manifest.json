@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bailreckoner/static/css/main.6fac11bb.css",
-    "main.js": "/bailreckoner/static/js/main.0a2814c2.js",
-    "static/js/453.91508bd0.chunk.js": "/bailreckoner/static/js/453.91508bd0.chunk.js",
-    "index.html": "/bailreckoner/index.html",
-    "main.6fac11bb.css.map": "/bailreckoner/static/css/main.6fac11bb.css.map",
-    "main.0a2814c2.js.map": "/bailreckoner/static/js/main.0a2814c2.js.map",
-    "453.91508bd0.chunk.js.map": "/bailreckoner/static/js/453.91508bd0.chunk.js.map"
+    "main.css": "/Bail-Reckoner/static/css/main.6fac11bb.css",
+    "main.js": "/Bail-Reckoner/static/js/main.a813617b.js",
+    "static/js/453.91508bd0.chunk.js": "/Bail-Reckoner/static/js/453.91508bd0.chunk.js",
+    "index.html": "/Bail-Reckoner/index.html",
+    "main.6fac11bb.css.map": "/Bail-Reckoner/static/css/main.6fac11bb.css.map",
+    "main.a813617b.js.map": "/Bail-Reckoner/static/js/main.a813617b.js.map",
+    "453.91508bd0.chunk.js.map": "/Bail-Reckoner/static/js/453.91508bd0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fac11bb.css",
-    "static/js/main.0a2814c2.js"
+    "static/js/main.a813617b.js"
   ]
 }
